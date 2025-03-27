@@ -24,14 +24,20 @@ You can install the required libraries using the following command:
 ```bash
 
 pip install numpy pandas matplotlib seaborn
-```python
+```
 How to Run
 Clone this repository to your local machine:
+```bash
 git clone https://github.com/aka-naman/customer-segmentation.git
+```
 Navigate to the project directory:
+```bash
 cd customer-segmentation
+```
 Open the Jupyter Notebook:
+```bash
 jupyter notebook customer_segmentation.ipynb
+```
 
 Feel free to contribute to this project by submitting issues or pull requests!
 
