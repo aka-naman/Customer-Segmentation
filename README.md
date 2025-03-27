@@ -22,8 +22,9 @@ To run this project, you need the following Python libraries installed:
 You can install the required libraries using the following command:
 
 ```bash
-pip install numpy pandas matplotlib seaborn
 
+pip install numpy pandas matplotlib seaborn
+```python
 How to Run
 Clone this repository to your local machine:
 git clone https://github.com/aka-naman/customer-segmentation.git
